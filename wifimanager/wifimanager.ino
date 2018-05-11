@@ -72,6 +72,6 @@ void setup() {
     ticker.detach();
     digitalWrite(outputled, OFF);
 }
-
+ 
 void loop(){
 }

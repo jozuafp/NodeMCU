@@ -9,4 +9,4 @@ $json = [
 
 file_put_contents('relay.json', json_encode($json));
 
-@header("Location: http://echo.web.id/relay/");
+@header("Location: http://jozua.wordpress.com/relay/");
